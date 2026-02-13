@@ -1,5 +1,10 @@
-# 💫 About Me:
-I am currently larning Deep Learning <br>I am very eager to contribute in Machine learning by building models and doing research<br>My core skills are DSA and Competetive programming <br>
+# 💫 About Me
+
+I am currently learning **Deep Learning** and building a strong foundation in Machine Learning concepts with the goal of applying them to real-world problems. I am highly motivated to contribute to the **Machine Learning and AI field** through model development and research-driven learning.
+<br>
+My core strengths are **Data Structures & Algorithms and Competitive Programming**, which have helped me develop strong problem-solving, optimization, and analytical skills.<br>
+I have also **worked on three full-stack web applications**, and I am eager to **integrate Machine Learning models into web systems in the future** to build intelligent, end-to-end applications.
+
 
 
 ## 🌐 Socials:
